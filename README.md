@@ -33,8 +33,7 @@ A line graph visualizes the yearly total sold product units from 2011 to 2020:
 - Notable growth peaks occurred in 2014 and post-2016, showing overall positive growth.
 
 ## Sales Channels:
-- Top performing channels include Retail, Key Accounts, and Wholesale, each generating over 1.95 billion in sales.
-
+- Top performing channels include Retail, Key Accounts, and Wholesale.
 - Door to Door was the least performing channel with ~85 million in sales.
 
 ## Customer Segments:
