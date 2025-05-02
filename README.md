@@ -43,7 +43,7 @@ A line graph visualizes the yearly total sold product units from 2011 to 2020:
 ## Orders Overview:
 Total number of orders from each region is uniformly distributed, with a small variance:
 
-- Top order volume: Delta (1,414,777)
+- Top order volume: Sainai (1,416,379)
 
 - Lowest order volume: Upper (1,409,846)
 
@@ -51,3 +51,5 @@ Total number of orders from each region is uniformly distributed, with a small v
 ## Tools and Technologies Used:
 - Excel for creating interactive data visualizations and dashboards.
 - Power Query for data transformation.
+- Pivot Tables for summarize, analyze, and visualize the data.
+  
