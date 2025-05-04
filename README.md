@@ -48,7 +48,7 @@ Total number of orders from each region is uniformly distributed, with a small v
 
 
 ## Tools & Techniques
-- Excel for creating interactive data visualizations and dashboards.
-- Power Query for data transformation.
-- Pivot Tables for summarize, analyze, and visualize the data.
+- Microsoft Excel
+- Power Query
+- Pivot Tables
   
